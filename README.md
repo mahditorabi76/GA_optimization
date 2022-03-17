@@ -10,7 +10,7 @@ The purpose of this exercise is to use genetic algorithms to solve an optimizati
 
 In this case, you have been told to assume that the city environment is empty of antennas. Using the genetic algorithm and receiving input information, including land dimensions and the above specifications, your task is to report the number of antennas used, the total cost, and the percentage of coverage of parts of the city.
 
-## Second case: solve the problem according to the antennas in the city
+## Case 2: Solve the problem according to the antennas in the city
 
 In this case, you should consider the antennas in the city and repeat the required items in the first case for this case as well. 
 
